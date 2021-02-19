@@ -60,7 +60,7 @@ _Or go to [**gobarber.desenvolvendosistemas.dev.br**](https://gobarber.desenvolv
 To clone and run this application locally, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer.
 
 <details open>
-  <summary>Hit me to toggle collapse 🕹️🤏</summary>
+  <summary>Hit me to toggle collapse: 🕹️🤏</summary>
 
   _From your `command line` follow these steps..._
 
@@ -80,7 +80,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   ```
 
   + <details>
-      <summary>See also:</summary>
+      <summary>See also: 🕹️🤏</summary>
 
       #### API
 
@@ -88,10 +88,10 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
         <img width="350px" alt="GoBarber back-end repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=node-deploy&theme=dark" />
       </a>
 
-      #### MOB
+      #### WEB
 
-      <a href="https://github.com/caiohenrique-developer/react-native-deploy">
-        <img width="350px" alt="GoBarber app mobile repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=react-native-deploy&theme=dark" />
+      <a href="https://github.com/caiohenrique-developer/react-deploy">
+        <img width="350px" alt="GoBarber front-end repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=react-deploy&theme=dark" />
       </a>
     </details>
 </details>
@@ -103,43 +103,43 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
 ## :bookmark: Badges
 
 <p align="center">
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/caiohenrique-developer/react-deploy">
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/caiohenrique-developer/react-native-deploy">
 
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/caiohenrique-developer/react-deploy">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/caiohenrique-developer/react-native-deploy">
 
-  <a href="https://www.codacy.com/app/caiohenrique-developer/react-deploy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=caiohenrique-developer/react-deploy&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/caiohenrique-developer/react-native-deploy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=caiohenrique-developer/react-native-deploy&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy Grade" src="https://img.shields.io/codacy/grade/4f87fc059ec846118f2ef2950200b13a.svg">
   </a>
 
-  <a href="https://github.com/caiohenrique-developer/react-deploy/commits/master">
-    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/caiohenrique-developer/react-deploy">
+  <a href="https://github.com/caiohenrique-developer/react-native-deploy/commits/master">
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/caiohenrique-developer/react-native-deploy">
   </a>
 
-  <a href="https://github.com/caiohenrique-developer/react-deploy/releases">
-    <img alt="GitHub Releases" src="https://img.shields.io/github/release-date/caiohenrique-developer/react-deploy">
+  <a href="https://github.com/caiohenrique-developer/react-native-deploy/releases">
+    <img alt="GitHub Releases" src="https://img.shields.io/github/release-date/caiohenrique-developer/react-native-deploy">
   </a>
 
   <br>
 
-  <a href="https://github.com/caiohenrique-developer/react-deploy/tags">
-    <img alt="GitHub Tags" src="https://img.shields.io/github/package-json/v/caiohenrique-developer/react-deploy/master">
+  <a href="https://github.com/caiohenrique-developer/react-native-deploy/tags">
+    <img alt="GitHub Tags" src="https://img.shields.io/github/package-json/v/caiohenrique-developer/react-native-deploy/master">
   </a>
 
-  <a href="https://github.com/caiohenrique-developer/react-deploy/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/caiohenrique-developer/react-deploy">
+  <a href="https://github.com/caiohenrique-developer/react-native-deploy/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/caiohenrique-developer/react-native-deploy">
   </a>
 
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/caiohenrique-developer/react-deploy">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/caiohenrique-developer/react-native-deploy">
 
-  <img alt="GitHub License" src="https://img.shields.io/github/license/caiohenrique-developer/react-deploy">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/caiohenrique-developer/react-native-deploy">
 
-  <a href="https://app.netlify.com/sites/gobarber-react-web/deploys">
+  <!-- <a href="https://app.netlify.com/sites/gobarber-react-web/deploys">
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/dd225487-0a31-4b67-8d9c-8006280cce71/deploy-status">
-  </a>
+  </a> -->
 </p>
 
 ## :closed_lock_with_key: License
-This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/react-deploy/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/react-native-deploy/blob/master/LICENSE) for more information.
 
 ---
 <blockquote align="center">Done with ♥ by myself ☝️ <a href="https://www.linkedin.com/in/caio-henrique-024627171/">Get in touch!</a></blockquote>
