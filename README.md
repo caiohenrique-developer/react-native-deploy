@@ -66,15 +66,51 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
 
   ```bash
     # Clone the project
-    $ git clone https://github.com/caiohenrique-developer/react-deploy 'GoBarber Web' && cd 'GoBarber Web'
+    $ git clone https://github.com/caiohenrique-developer/react-native-deploy 'GoBarber Mob' && cd 'GoBarber Mob'
 
     # Install dependencies
     $ yarn
     # or
     $ npm i
 
-    # Start the project
+    # ** Simulator **
+
+    # If you want to run the project on a simulador like Android Studio or Genymotion, start the react-native server as it is
     $ yarn start
+    # or
+    $ npm start
+
+    # On another terminal, install the app on your simulator
+    # Start the project using the command below for Android devices
+    $ yarn android
+    # or
+    $ npm android
+
+    # or
+
+    # Start the project using the command below for iOS devices
+    $ yarn ios --simulator="iPhone XS Max"
+    # or
+    $ npm ios --simulator="iPhone XS Max"
+
+    # ** Physical smartphone **
+
+    # If you want to run the project on your physical smartphone, change the baseURL on src/services/api.js to your machine's ethernet adapter IP. Use the ethernet adapter IP if you're on a cable connection or the WiFi adapter IP if you're on a wireless conecction.
+    # After changing the baseURL, start the react-native server
+    $ yarn start
+    # or
+    $ npm start
+
+    # On another terminal, install the app on your physical smartphone
+    # Start the project using the command below for Android devices
+    $ yarn android
+    # or
+    $ npm android
+
+    # Start the project using the command below for iOS devices
+    $ yarn ios --simulator="iPhone XS Max"
+    # or
+    $ npm ios --simulator="iPhone XS Max"
 
     # Very well, now you can enjoy this project ;)
   ```
