@@ -13,7 +13,8 @@
     "test": "jest --watchAll true",
     "test:coverage": "jest --coverage --watchAll true",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "release": "semantic-release --no-ci"
   },
   "config": {
     "commitizen": {
@@ -75,6 +76,8 @@
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^1.1.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
     "@testing-library/jest-native": "^3.4.3",
     "@testing-library/react-native": "^7.0.2",
     "@types/jest": "^25.2.3",
@@ -102,6 +105,7 @@
     "metro-react-native-babel-preset": "^0.59.0",
     "prettier": "^2.0.5",
     "react-test-renderer": "16.13.1",
+    "semantic-release": "^17.3.9",
     "typescript": "^3.8.3"
   }
 }
