@@ -1,6 +1,10 @@
 {
   "name": "appgobarber",
-  "version": "0.0.1",
+  "description": ":barber: GoBarber app mob, project intended to offer scheduling barber shop services.",
+  "main": "index.js",
+  "repository": "https://github.com/caiohenrique-developer/react-native-deploy",
+  "author": "caiohenrique.developer@gmail.com",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
