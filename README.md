@@ -108,9 +108,9 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
     $ npm android
 
     # Start the project using the command below for iOS devices
-    $ yarn ios --simulator="iPhone XS Max"
+    $ yarn ios
     # or
-    $ npm ios --simulator="iPhone XS Max"
+    $ npm ios
 
     # Very well, now you can enjoy this project ;)
   ```
