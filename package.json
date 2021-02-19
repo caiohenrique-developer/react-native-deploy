@@ -107,5 +107,6 @@
     "react-test-renderer": "16.13.1",
     "semantic-release": "^17.3.9",
     "typescript": "^3.8.3"
-  }
+  },
+  "version": "1.0.0"
 }
