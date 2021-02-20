@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/caiohenrique-developer/react-native-deploy",
   "author": "caiohenrique.developer@gmail.com",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "private": true,
   "scripts": {
