@@ -70,54 +70,54 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   _From your `command line` follow these steps..._
 
   ```bash
-    # Clone the project
-    $ git clone https://github.com/caiohenrique-developer/react-native-deploy 'GoBarber Mob' && cd 'GoBarber Mob'
+  # Clone the project
+  $ git clone https://github.com/caiohenrique-developer/react-native-deploy 'GoBarber Mob' && cd 'GoBarber Mob'
 
-    # Install dependencies
-    $ yarn
-    # or
-    $ npm i
+  # Install dependencies
+  $ yarn
+  # or
+  $ npm i
 
-    # ** Simulator **
+  # ** Simulator **
 
-    # If you want to run the project on a simulador like Android Studio or Genymotion, start the react-native server as it is
-    $ yarn start
-    # or
-    $ npm start
+  # If you want to run the project on a simulador like Android Studio or Genymotion, start the react-native server as it is
+  $ yarn start
+  # or
+  $ npm start
 
-    # On another terminal, install the app on your simulator
-    # Start the project using the command below for Android devices
-    $ yarn android
-    # or
-    $ npm android
+  # On another terminal, install the app on your simulator
+  # Start the project using the command below for Android devices
+  $ yarn android
+  # or
+  $ npm android
 
-    # or
+  # or
 
-    # Start the project using the command below for iOS devices
-    $ yarn ios --simulator="iPhone XS Max"
-    # or
-    $ npm ios --simulator="iPhone XS Max"
+  # Start the project using the command below for iOS devices
+  $ yarn ios --simulator="iPhone XS Max"
+  # or
+  $ npm ios --simulator="iPhone XS Max"
 
-    # ** Physical Smartphone **
+  # ** Physical Smartphone **
 
-    # If you want to run the project on your physical smartphone, change the baseURL on src/services/api.js to your machine's ethernet adapter IP. Use the ethernet adapter IP if you're on a cable connection or the WiFi adapter IP if you're on a wireless conecction.
-    # After changing the baseURL, start the react-native server
-    $ yarn start
-    # or
-    $ npm start
+  # If you want to run the project on your physical smartphone, change the baseURL on src/services/api.js to your machine's ethernet adapter IP. Use the ethernet adapter IP if you're on a cable connection or the WiFi adapter IP if you're on a wireless conecction.
+  # After changing the baseURL, start the react-native server
+  $ yarn start
+  # or
+  $ npm start
 
-    # On another terminal, install the app on your physical smartphone
-    # Start the project using the command below for Android devices
-    $ yarn android
-    # or
-    $ npm android
+  # On another terminal, install the app on your physical smartphone
+  # Start the project using the command below for Android devices
+  $ yarn android
+  # or
+  $ npm android
 
-    # Start the project using the command below for iOS devices
-    $ yarn ios
-    # or
-    $ npm ios
+  # Start the project using the command below for iOS devices
+  $ yarn ios
+  # or
+  $ npm ios
 
-    # Very well, now you can enjoy this project ;)
+  # Very well, now you can enjoy this project ;)
   ```
 
   + <details>
