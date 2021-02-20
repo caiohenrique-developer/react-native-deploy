@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  💈 GoBarber app mob, a project developed to offer barber shop scheduling.
+  💈 GoBarber mob app , a project developed to offer barber shop scheduling.
 </h5>
 
 <p align="center">
@@ -32,24 +32,29 @@
 This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocketseat.com.br) with the following technologies:
 
 -  [Axios](https://github.com/axios/axios)
+-  [Commitlint](https://github.com/conventional-changelog/commitlint)
+-  [Commitizen](https://github.com/commitizen/cz-cli)
 -  [Date-fns](https://date-fns.org/)
--  [Express](https://expressjs.com/)
--  [NodeJS][nodejs]
+-  [Husky](https://github.com/typicode/husky)
+-  [Jest](https://jestjs.io/)
 -  [ReactJS](https://reactjs.org/)
--  [React Day Picker](https://react-day-picker.js.org/)
--  [React Icons](https://react-icons.github.io/react-icons/)
+-  [React Native](https://reactnative.dev/)
+-  [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler)
+-  [React Native Image Picker](https://github.com/react-native-image-picker/react-native-image-picker)
+-  [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+-  [Semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 -  [Styled Components](https://www.styled-components.com/)
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [Unform](https://unform.dev/)
--  [uuidv4](https://www.npmjs.com/package/uuidv4)
 -  [VS Code][vc] with [ESLint][vceslint], [EditorConfig][vceditconfig] & [Prettier][vcprettier]
 -  [Yup](https://github.com/jquense/yup)
 
 ## :warning: Prerequisites
 
-In order to use and test this project locally, you should've already setup the development environment. <br>
-Therefore, firstly i recommend that you access and run the backend repository for a complete experience. <br>
-_Or go to [**gobarber.desenvolvendosistemas.dev.br**](https://gobarber.desenvolvendosistemas.dev.br/) to see the project in a production environment._
+In order to use and test the mobile app on a simulator or on your physical smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment: [React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao).
+
+And also, firstly i recommend that you access and run the backend repository for a complete experience. <br>
+_Or go to [**gobarber.desenvolvendosistemas.dev.br**](https://gobarber.desenvolvendosistemas.dev.br/) to see the web project in a production environment._
 
 <a href="https://github.com/caiohenrique-developer/node-deploy">
   <img width="350px" alt="GoBarber back-end repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=node-deploy&theme=dark" />
@@ -93,7 +98,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
     # or
     $ npm ios --simulator="iPhone XS Max"
 
-    # ** Physical smartphone **
+    # ** Physical Smartphone **
 
     # If you want to run the project on your physical smartphone, change the baseURL on src/services/api.js to your machine's ethernet adapter IP. Use the ethernet adapter IP if you're on a cable connection or the WiFi adapter IP if you're on a wireless conecction.
     # After changing the baseURL, start the react-native server
