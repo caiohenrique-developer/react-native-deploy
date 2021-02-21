@@ -1,12 +1,17 @@
 {
-  "name": "appgobarber",
+  "name": "gobarber-mob",
   "description": ":barber: GoBarber mob app, project intended to offer scheduling barber shop services.",
   "main": "index.js",
-  "repository": "https://github.com/caiohenrique-developer/react-native-deploy",
-  "author": "caiohenrique.developer@gmail.com",
+  "repository": "https://github.com/caiohenrique-developer/react-native-deploy.git",
+  "bugs": {
+    "url": "https://github.com/caiohenrique-developer/react-native-deploy/issues"
+  },
+  "homepage": "https://github.com/caiohenrique-developer/react-native-deploy#readme",
+  "author": "Caio Henrique <caiohenrique.developer@gmail.com>",
   "version": "1.0.1",
   "license": "MIT",
   "private": true,
+  "keywords": [],
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
