@@ -138,7 +138,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
 </details>
 
 <p align="center">
-  <img alt="GoBarber background image" src="src/assets/Group 1.png" width="300" />
+  <img alt="GoBarber background image" src="src/assets/New.svg" width="700" />
 </p>
 
 ## :bookmark: Badges
