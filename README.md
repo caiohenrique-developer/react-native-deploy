@@ -1,3 +1,5 @@
+### <a name="top"></a>
+
 <h1 align="center">
   <a href="https://gobarber.desenvolvendosistemas.dev.br">
     <img alt="GoBarber logotipo" src="src/assets/logo.svg" />
@@ -27,7 +29,7 @@
   <img alt="GoBarber background image" src="src/assets/mockuper (1).png" width="100%" />
 </p>
 
-## :flying_saucer: Technologies
+## [🔝](#top) Techs :flying_saucer:
 
 This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocketseat.com.br) with the following technologies:
 
@@ -49,7 +51,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp 11](https://rocke
 -  [VS Code][vc] with [ESLint][vceslint], [EditorConfig][vceditconfig] & [Prettier][vcprettier]
 -  [Yup](https://github.com/jquense/yup)
 
-## :warning: Prerequisites
+## [🔝](#top) Prerequisites :warning:
 
 In order to use and test the mobile app on a simulator or on your physical smartphone, you should've already setup the development environment for React Native applications. You can follow the following article (PT-BR) to setup your environment: [React Native Environment (Android/iOS)](https://docs.rocketseat.dev/ambiente-react-native/introducao).
 
@@ -60,7 +62,7 @@ _Or go to [**gobarber.desenvolvendosistemas.dev.br**](https://gobarber.desenvolv
   <img width="350px" alt="GoBarber back-end repository" src="https://github-readme-stats.vercel.app/api/pin/?username=caiohenrique-developer&repo=node-deploy&theme=dark" />
 </a>
 
-## :grey_question: How To Use
+## [🔝](#top) How To Use :grey_question:
 
 To clone and run this application locally, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer.
 
@@ -141,7 +143,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   <img alt="GoBarber background image" src="src/assets/New.svg" width="700" />
 </p>
 
-## :bookmark: Badges
+## [🔝](#top) Badges :bookmark:
 
 <p align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/caiohenrique-developer/react-native-deploy">
@@ -183,11 +185,32 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
   </a> -->
 </p>
 
-## :closed_lock_with_key: License
-This project is under the MIT license. See the [LICENSE](https://github.com/caiohenrique-developer/react-native-deploy/blob/master/LICENSE) for more information.
+## [🔝](#top) License :closed_lock_with_key:
+
+Copyright © 2021 GoBarber, [MIT](https://github.com/caiohenrique-developer/react-native-deploy/blob/master/LICENSE) .
+###### _This project is under the <sup>MIT</sup> license. See the license for more information._
 
 ---
-<blockquote align="center">Done with ♥ by myself ☝️ <a href="https://www.linkedin.com/in/caio-henrique-024627171/">Get in touch!</a></blockquote>
+
+<blockquote align="center">“Always running in search of the goals!” <br> Done with ♥ by myself 👇 <a href="#-contact-me-phone">Get in touch!</a></blockquote>
+
+## [🔝](#top) Contact Me :phone:
+
+<p align="left">
+  <img align="left" alt="Profile Avatar" src="./src/assets/professional.png" width="80" />
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/caio-henrique-024627171">
+    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/Caio%20Henrique-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+  <a href="mailto:caiohenrique.developer@gmail.com">
+    <img align="center" alt="Gmail" src="https://img.shields.io/badge/caiohenrique.developer@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5511943902438&text=Fala%20Caio,%20como%20vai?">
+    <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/(11)%2094390%202438-25D366?style=social&logo=whatsapp&logoColor=black" />
+  </a>
+</p>
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
